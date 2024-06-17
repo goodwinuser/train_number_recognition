@@ -1,0 +1,94 @@
+{
+    "is_completed": true,
+    "numbers": [
+        {
+            "confidence": 0.831852912902832,
+            "digits": [
+                {
+                    "confidence": 0.831852912902832,
+                    "digit_center_x": 1205,
+                    "digit_center_y": 290,
+                    "height": 55,
+                    "is_valid": true,
+                    "value": "2",
+                    "width": 35 
+                },
+                {
+                    "confidence": 0.831852912902832,
+                    "digit_center_x": 1240,
+                    "digit_center_y": 291,
+                    "height": 55,
+                    "is_valid": true,
+                    "value": "4",
+                    "width": 35
+                },
+                {
+                    "width": 35,
+                    "confidence": 0.831852912902832,
+                    "digit_center_x": 1273,
+                    "digit_center_y": 292,
+                    "height": 55,
+                    "is_valid": true,
+                    "value": "4"
+                },
+                {
+                    "confidence": 0.831852912902832,
+                    "digit_center_x": 1307,
+                    "digit_center_y": 294,
+                    "height": 55,
+                    "is_valid": true,
+                    "value": "3",
+                    "width": 35
+                },
+                {
+                    "confidence": 0.831852912902832,
+                    "digit_center_x": 1364,
+                    "digit_center_y": 298,
+                    "height": 55,
+                    "is_valid": true,
+                    "value": "2",
+                    "width": 35
+                },
+                {
+                    "confidence": 0.831852912902832,
+                    "digit_center_x": 1394,
+                    "digit_center_y": 299,
+                    "height": 55,
+                    "is_valid": true,
+                    "value": "0",
+                    "width": 35
+                },
+                {
+                    "confidence": 0.831852912902832,
+                    "digit_center_x": 1422,
+                    "digit_center_y": 302,
+                    "height": 55,
+                    "is_valid": true,
+                    "value": "6",
+                    "width": 35
+                },
+                {
+                    "confidence": 0.831852912902832,
+                    "digit_center_x": 1453,
+                    "digit_center_y": 303,
+                    "height": 55,
+                    "is_valid": true,
+                    "value": "4",
+                    "width": 35
+                }
+            ],
+            "height": 85,
+            "img_height": 1080,
+            "img_name": "name.jpg",
+            "img_type": "jpg",
+            "img_width": 1920,
+            "is_rule_complete": true,
+            "is_valid": true,
+            "number": "24432064",
+            "number_center_x": 1330,
+            "number_center_y": 300,
+            "width": 310
+        }
+    ],
+    "timestamp": "YYYY-MM-DDThh:mm:ss"
+}
